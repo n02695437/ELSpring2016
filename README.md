@@ -1,3 +1,2 @@
 # ELSpring2016
-Template for Spring 2016 Embedded Linux class
-This is a template for students to clone for their work in the class. You should maintain the directory structure
+This is my (N02695437) class repository. All work here is mine, except otherwise noted. I used emacs instead of vi to do this as vi kept doing things I didn't understand. How important is it to use vi?
