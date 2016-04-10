@@ -20,6 +20,6 @@ try:
         con.commit()
 except:
     with con:
-        cur=con.sursor()
+        cur=con.cursor()
         cur.execute('CREATE TABLE DT(Date, Time)')
         cur.commit()
